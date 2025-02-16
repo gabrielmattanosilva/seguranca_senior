@@ -20,8 +20,6 @@
 static const char *init[] = {
     "    Iniciando   ",
     "   Dispositivo  ",
-    "     Senior     ",
-    "     Seguro     ",
     NULL // Finaliza o array de mensagens
 };
 

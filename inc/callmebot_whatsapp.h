@@ -22,10 +22,10 @@
 #define SERVER_PORT 80                      // Porta do servidor HTTP
 
 // Definição das mensagens
-#define MESSAGE_1 "SOCORRO! Preciso de ajuda imediata!"
-#define MESSAGE_2 "Estou me sentindo um pouco mal. Me ligue por favor?"
-#define MESSAGE_3 "Estou tendo dificuldades. Por favor, me ajude."
-#define MESSAGE_4 "Estou bem, mas gostaria de conversar. Me ligue por favor?"
+#define MESSAGE_1 "Estou bem, mas gostaria de conversar. Me ligue por favor?"
+#define MESSAGE_2 "Estou tendo dificuldades. Por favor, me ajude."
+#define MESSAGE_3 "Estou me sentindo um pouco mal. Me ligue por favor?"
+#define MESSAGE_4 "SOCORRO! Preciso de ajuda imediata!"
 
 /**
  * @brief Envia uma mensagem via WhatsApp utilizando o serviço CallMeBot.

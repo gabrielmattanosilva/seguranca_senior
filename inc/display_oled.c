@@ -45,7 +45,7 @@ void display_init(void) {
     display_initialized = true; // Marcar como inicializado
 
     // Exibe mensagem inicial
-    display_text(init, 2);
+    display_text(init, 3);
     sleep_ms(2000);
 }
 

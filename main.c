@@ -36,8 +36,6 @@
 #include "display_text.h"
 #include "wifi.h"
 
-//#include "hardware/timer.h"
-
 /**
  * @brief Função principal
  * 
